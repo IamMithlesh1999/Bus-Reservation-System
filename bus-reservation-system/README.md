@@ -29,8 +29,6 @@ Password : `pass`
 
 ### Welcome Screen
 
-![Screenshot 1](screenshots/1.png "Welcome Screen")
-
 ### Main Menu
 
 ![Screenshot 2](screenshots/2.png "Main Menu")
